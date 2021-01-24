@@ -1,2 +1,2 @@
-# python-sql-lite-tutorial
+# python-sqlite-tutorial
  My Python SQLite Tutorial
